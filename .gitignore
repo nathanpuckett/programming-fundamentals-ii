@@ -2,3 +2,5 @@
 *.docx
 *.pages
 .DS_Store
+*.plist
+*.yml
